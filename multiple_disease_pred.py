@@ -10,11 +10,11 @@ from PIL import Image
 
 # loading the saved models
 
-diabetes_model = pickle.load(open("C:/Users/Krishna/Desktop/streamlit/disease/saved models/diabetes_model.sav", 'rb'))
+diabetes_model = pickle.load(open("diabetes_model.sav", 'rb'))
 
-heart_disease_model = pickle.load(open("C:/Users/Krishna/Desktop/streamlit/disease/saved models/heart_disease_model.sav",'rb'))
+heart_disease_model = pickle.load(open("heart_disease_model.sav",'rb'))
 
-parkinsons_model = pickle.load(open("C:/Users/Krishna/Desktop/streamlit/disease/saved models/parkinsons_model.sav", 'rb'))
+parkinsons_model = pickle.load(open("parkinsons_model.sav", 'rb'))
 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 
