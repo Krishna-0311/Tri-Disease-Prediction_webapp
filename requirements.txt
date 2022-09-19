@@ -1,5 +1,6 @@
 
 geemap
+numpy
 geopandas
 jupyter-server-proxy
 keplergl
