@@ -3,7 +3,7 @@ import pickle
 import streamlit as st
 from pathlib import Path
 import sys
-sys.path.insert(1, "c:/users/krishna/anaconda3\lib/site-packages/streamlit_option_menu")
+sys.path.insert(1, "c:/users/krishna/anaconda3/lib/site-packages")
 from streamlit_option_menu import option_menu
 from PIL import Image
 
