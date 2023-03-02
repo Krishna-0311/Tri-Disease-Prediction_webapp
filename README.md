@@ -1,6 +1,6 @@
 # Tri-Disease-Prediction_webapp
 
-This is a web based app that predicts the existence of disease in our body based on input parameters receieved
+This is a web based app that predicts the existence of disease in our body based on the input parameters receieved
 
                                                               DIABETES PREDICTION
 
